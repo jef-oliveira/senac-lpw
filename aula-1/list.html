@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <!-- Bootstrap -->
+    <link href="https://stackpath.bootstrapcdn.com/bootswatch/4.5.0/darkly/bootstrap.min.css" rel="stylesheet" integrity="sha384-Bo21yfmmZuXwcN/9vKrA5jPUMhr7znVBBeLxT9MA4r2BchhusfJ6+n8TLGUcRAtL" crossorigin="anonymous">
+    <!-- FontAwesome -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/js/all.min.js"></script>
+
+    <link rel="shortcut icon" href="./assets/cart.png" type="image/x-icon">
+    <link rel="stylesheet" href="list.css">
+
+    <title>Lista de compras</title>
+  </head>
+
+  <body>
+    <div class="container text-center my-4">
+      <h2 class="mb-4">
+        <img src="assets/cart.png" alt="Carrinho" />
+        Lista de compras
+      </h2>
+
+      <form class="my-3" id="search-form">
+        <div class="input-group input-group-lg mb-3">
+          <input type="text" class="form-control m-auto" placeholder="Filtar por..." />
+          <div class="input-group-append">
+            <button class="btn btn-primary">
+              <i class="fas fa-search"></i>
+            </button>
+          </div>
+        </div>
+      </form>
+
+      <ul class="list-group list"></ul>
+
+      <form class="my-3" id="add-form">
+        <label for="item" class="font-weight-bold">Adicionar novos produtos</label>
+        <div class="input-group mb-3">
+          <input id="item" type="text" class="form-control" placeholder="Novo produto..." />
+          <div class="input-group-append">
+            <button class="btn btn-primary">
+              <i class="fas fa-plus-circle add"></i>
+            </button>
+          </div>
+        </div>
+      </form>
+
+      <form class="my-3" id="save-form">
+        <button class="btn btn-success salvar">
+          Salvar lista
+          <i class="fas fa-save"></i>
+        </button>
+      </form>
+    </div>
+
+    <script src="list.js"></script>
+  </body>
+</html>
