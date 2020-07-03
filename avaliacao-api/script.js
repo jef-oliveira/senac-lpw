@@ -1,4 +1,4 @@
-const quotesAPI = 'http://quotes.stormconsultancy.co.uk';
+const quotesAPI = 'https://quotes.stormconsultancy.co.uk';
 const imagesAPI = 'https://picsum.photos';
 const timestamp = new Date().getTime();
 
