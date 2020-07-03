@@ -14,3 +14,4 @@ Repositório com os arquivos das aulas de Linguagem de Programação para Web, S
   
 ## Atividades
   * [jogo de montar salada de fruta](https://jef-oliveira.github.io/senac-lpw/salada)
+  * [revenda de veículos](https://jef-oliveira.github.io/senac-lpw/herbie)
