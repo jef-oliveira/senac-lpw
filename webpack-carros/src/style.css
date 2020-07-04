@@ -1,0 +1,11 @@
+img {
+  max-width: 100%;
+}
+
+tr.destaque {
+  background-color: PaleGoldenRod;
+}
+
+.acoes i {
+  cursor: pointer;
+}
