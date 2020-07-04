@@ -12,6 +12,10 @@ Repositório com os arquivos das aulas de Linguagem de Programação para Web, S
   * [Blackjack](https://jef-oliveira.github.io/senac-lpw/blackjack)
   * [Exemplo com FileReader](https://jef-oliveira.github.io/senac-lpw/file-reader/form.html)
   
+### Sexta-feira, 03/07
+  * **Parte 1: configuração do Webpack.js** - baixar o projeto e rodar `cd aula-3_parte-1 && npm install && npm start`
+  * **Parte 1: imports e exports** - baixar o projeto e rodar `cd aula-3_parte-2 && npm install && npm start`
+  
 ## Atividades
   ### [Jogo da salada de frutas](https://jef-oliveira.github.io/senac-lpw/salada)
   
