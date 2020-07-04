@@ -18,6 +18,7 @@ Repositório com os arquivos das aulas de Linguagem de Programação para Web, S
 
 ### Sábado, 04/07
   * [Apostas quanto ao peso da melancia](https://jef-oliveira.github.io/senac-lpw/aula-4/dist) (ou baixar o projeto e rodar `cd aula-4 && npm install && npm start`)
+  * [Cadastro de carros com Firebase](https://jef-oliveira.github.io/senac-lpw/webpack-carros/dist) (ou baixar o projeto e rodar `cd webpack-carros && npm install && npm start`)
   
 ## Atividades
   ### [Jogo da salada de frutas](https://jef-oliveira.github.io/senac-lpw/salada)
