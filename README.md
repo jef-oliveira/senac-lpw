@@ -13,10 +13,10 @@ Repositório com os arquivos das aulas de Linguagem de Programação para Web, S
   * [Exemplo com FileReader](https://jef-oliveira.github.io/senac-lpw/file-reader/form.html)
   
 ### Sexta-feira, 03/07
-  * **Parte 1: configuração do Webpack.js** - baixar o projeto e rodar `cd aula-3_parte-1 && npm install && npm start`
-  * **Parte 1: imports e exports** - baixar o projeto e rodar `cd aula-3_parte-2 && npm install && npm start`
+  * [Parte 1: configuração do Webpack.js](https://jef-oliveira.github.io/senac-lpw/aula-3_parte-1/dist) (ou baixar o projeto e rodar `cd aula-3_parte-1 && npm install && npm start`)
+  * [Parte 2: imports e exports](https://jef-oliveira.github.io/senac-lpw/aula-3_parte-2/dist) (ou baixar o projeto e rodar `cd aula-3_parte-2 && npm install && npm start`)
 
-### Sexta-feira, 04/07
+### Sábado, 04/07
   * [Apostas quanto ao peso da melancia](https://jef-oliveira.github.io/senac-lpw/aula-4/dist) (ou baixar o projeto e rodar `cd aula-4 && npm install && npm start`)
   
 ## Atividades
